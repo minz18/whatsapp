@@ -1,0 +1,24 @@
+{
+   "sessionName": "MinZ",
+   "ownerNumber": "6283812644727@s.whatsapp.net",
+   "ownerName": "MinZ",
+   "botName": "MinZ BOT",
+   "footer": "MinZ © 2022",
+   "butName": "Github",
+   "butLink": "https://github.com/minz18",   
+   "pathThumb": "./temp/bot.jpg",
+   "pathQris": "./temp/qr.jpg",
+   "packname": "IG :",
+   "author": "mr.minz86",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "lv": "Link yang kamu berikan tidak valid",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
